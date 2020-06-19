@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "OLOLO TROLOLO!"
+title: "Welcome to our second slide!"
 ---
-
-Use your ass to gtfo!
+Your text
+Use the left arrow to go back!
